@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Konstantinos Tsiligkiris",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "ktsiligkiris@outlook.com",
+  "friendly_name": "Wyatterp",
+  "github_user": "ktsiligkiris",
+  "license": "Apache-2.0",
+  "package_name": "wyatterp",
+  "project_name": "wyatterp",
+  "version": "0.0.0"
+}
